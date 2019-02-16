@@ -1,0 +1,5 @@
+Package: courgette
+Version: 1.0.0-@GITHASH@
+Architecture: amd64
+Maintainer: "Ryan Govostes" <rgovostes@gmail.com>
+Description: Courgette binary patching tool 
