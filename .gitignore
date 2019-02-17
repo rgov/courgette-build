@@ -1,0 +1,7 @@
+.DS_Store
+workspace/
+workspace-linux/
+workspace-mac/
+ws/
+install-build-deps.sh
+courgette.log
